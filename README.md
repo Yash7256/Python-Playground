@@ -8,7 +8,7 @@ This monorepo serves as a portfolio of Python projects developed during my learn
 
 ## Projects
 
-### [CALCULATOR](./CALCULATOR(PROJECT 1/)
+### [CALCULATOR(PROJECT 1)](./CALCULATOR(PROJECT 1/)
 A basic calculator application that demonstrates fundamental Python concepts including:
 - User input handling
 - Conditional logic and pattern matching
